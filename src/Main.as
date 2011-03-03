@@ -22,6 +22,7 @@ package
 			// entry point
 			
 			trace("Hello from Git!");
+			trace("Вроде, все понятно )");
 		}
 		
 	}
