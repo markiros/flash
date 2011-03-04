@@ -24,6 +24,7 @@ package
 			trace("Hello from Git!");
 			trace("Вроде, все понятно )");
 			trace("Коммичу с работы");
+			trace("Коммичу из дома");
 		}
 		
 	}
